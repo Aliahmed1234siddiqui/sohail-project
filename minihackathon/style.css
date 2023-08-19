@@ -1,0 +1,212 @@
+input[type=text],
+input[type=password],
+input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    /* border: 1px solid #ccc; */
+    box-sizing: border-box;
+}
+
+.login-btn {
+    background-color: #6daad7;
+    border: none;
+    margin: 8px 0;
+    color: white;
+    cursor: pointer;
+    padding: 14px 20px;
+    margin-top: 20px;
+    width: 100%;
+
+}
+
+.login-btn:hover {
+    opacity: 0.9;
+}
+
+.container {
+    padding: 16px;
+
+}
+
+.main-container {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
+
+.card {
+    padding: 20px;
+    margin-bottom: 50px;
+    width: 300px;
+    border-radius: 30px;
+    background: rgb(251, 251, 251);
+    margin-top: 20px;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #6daad7;
+    color: white;
+    padding: 20px;
+    height: 50px;
+}
+
+.header-container a {
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.Signup-main-container {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.content-header {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.content-container {
+    background: rgb(251, 251, 251);
+    box-shadow: rgba(129, 129, 186, 0.25) 0px 30px 50px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 26px -18px inset;
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+}
+
+.btn-primary {
+    background-color: #6daad7;
+    margin-top: 10px;
+}
+
+.blog-img {
+    width: 100px;
+    height: 100px;
+    display: inline;
+    border-radius: 50px;
+}
+
+.img-card {
+    display: flex;
+}
+
+.card-title {
+    margin: 10px;
+}
+
+.blog-container {
+    display: flex;
+    justify-content: center;
+    display: grid;
+    margin-left: 250px;
+}
+.blog-container-inHome{
+      display: flex;
+    justify-content: center;
+    display: grid;
+    margin-left: 250px;
+}
+
+.card {
+    width: 80%;
+}
+
+#date-heading {
+    font-size: 10px;
+    margin-left: 20px;
+}
+
+form input[type="file"] {
+    display: none;
+}
+
+.camera-pic>img {
+    width: 30px;
+    height: 30px;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+
+.message-box {
+    width: 45%;
+    background-color: #c7e3f9;
+    padding: 10px;
+    color: #667682;
+    border-radius: 5px;
+}
+
+.chat-box {
+    padding: 10px;
+    height: 400px;
+    overflow-y: scroll;
+}
+
+.chat-container {
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    margin-top: 50px !important;
+}
+
+.right-message {
+    background-color: #6daad7;
+    color: #141414;
+    margin-left: auto;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.profile-heading {
+    margin: 20px;
+}
+
+form input[type="file"] {
+    display: none;
+}
+
+.card-profile {
+    width: 800px;
+    display: block;
+    margin: 0 auto;
+}
+
+#profile-picture {
+    width: 200px;
+    border-radius: 50px;
+    display: block;
+    margin: 0 auto;
+}
+
+#changeBtn {
+    margin-left: 450px;
+}
+
+.profile-container {
+    width: 100%;
+
+}
+
+.btn {
+    color: white;
+}
+
+.con {
+    background-color: #c7e3f9;
+    height: 100px;
+    padding: 20px;
+}
